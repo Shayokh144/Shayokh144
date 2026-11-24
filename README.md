@@ -43,7 +43,7 @@ I care about security, clean architecture, accessibility, and code that stays ea
 ## Featured Projects
 
 <p>
-  <a href="https://github.com/Shayokh144/Mind_Mapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayokh144&repo=Mind_Mapper&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0f172a&border_color=1f2937" alt="Mind_Mapper" /></a>
+  <a href="https://github.com/Shayokh144/Mind_Mapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayokh144&repo=Mind_Mapper&v=2&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0f172a&border_color=1f2937" alt="Mind_Mapper" /></a>
   <a href="https://github.com/Shayokh144/Expense-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayokh144&repo=Expense-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0f172a&border_color=1f2937" alt="Expense-Tracker" /></a>
   <a href="https://github.com/Shayokh144/Bangla_Dataset_for_Opinion_Mining"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayokh144&repo=Bangla_Dataset_for_Opinion_Mining&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0f172a&border_color=1f2937" alt="Bangla_Dataset_for_Opinion_Mining" /></a>
   <a href="https://github.com/Shayokh144/Commodity_Price_Analysis_BD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayokh144&repo=Commodity_Price_Analysis_BD&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0f172a&border_color=1f2937" alt="Commodity_Price_Analysis_BD" /></a>
